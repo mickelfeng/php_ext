@@ -1,4 +1,5 @@
 #define PHP_YZHANG_EXTNAME "zyc"
-#define PHP_YZHANG_VERSION "0.01"
+#define PHP_YZHANG_VERSION "0.02"
+#define PHONE_NUMBER_LEN 25
 
 PHP_FUNCTION(my_foo);
